@@ -11,7 +11,7 @@
 
 /* ==========================================================================
 Global Styles
-========================================================================== */
+============================================================================= */
 .group:after {
   content: "";
   display: table;
@@ -251,7 +251,7 @@ Navigation
 Hero
 ========================================================================== */
 .hero {
-  min-height: 750px;
+  min-height: 1290px;
   background: url('../img/hero-min.jpg') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -282,7 +282,7 @@ Hero
   }
   .hero-content img {
     width: 55%;
-    margin-bottom: 12%;
+    margin-bottom: 15%;
   }
 }
 .navigation {
